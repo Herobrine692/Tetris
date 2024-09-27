@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Z_Tetrimino_270_Degrees",
+  "name": "S_Tetrimino_180_Degrees_Phantom",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -28,12 +28,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8452bf81-6eed-4fbe-bcca-86f1ab2c8cd4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ee5fbfd8-c7db-4690-a38d-1eeec9807bc3",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Z_Tetrimino_270_Degrees",
+    "name": "S_Tetrimino_180_Degrees_Phantom",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -45,7 +45,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"86f55da6-2a81-40ac-8b43-8bf78cf04dfa","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8452bf81-6eed-4fbe-bcca-86f1ab2c8cd4","path":"sprites/Z_Tetrimino_270_Degrees/Z_Tetrimino_270_Degrees.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"637c5457-a3b4-4fa9-b8a5-3da353d51710","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ee5fbfd8-c7db-4690-a38d-1eeec9807bc3","path":"sprites/S_Tetrimino_180_Degrees_Phantom/S_Tetrimino_180_Degrees_Phantom.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
@@ -64,11 +64,11 @@
     "eventStubScript": null,
   },
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"54b06fc7-224c-4bd2-9f5d-489b0de5e112","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"098e6ecf-1abd-454d-944f-feef8a061009","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Z_Tetrimino_Rotations",
-    "path": "folders/Sprites/Tetriminos_With_Rotations/Z_Tetrimino_Rotations.yy",
+    "name": "S_Tetrimino_Rotations(Phantom)",
+    "path": "folders/Sprites/Phantom_Tetriminos_with_Rotations/S_Tetrimino_Rotations(Phantom).yy",
   },
 }
